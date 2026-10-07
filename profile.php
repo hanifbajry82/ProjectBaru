@@ -41,4 +41,3 @@ require 'includes/header.php';
 </section>
 
 <?php require 'includes/footer.php'; ?>
-<!-- Simulasi Revert Bab 14 -->
